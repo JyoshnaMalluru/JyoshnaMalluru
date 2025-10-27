@@ -138,13 +138,13 @@
   <a href="https://github.com/JyoshnaMalluru">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/JyoshnaMalluru/](https://leetcode.com/u/jyoshnamalluru/">
+  <a href="https://leetcode.com/u/jyoshnamalluru/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/jyoshnamalluru/practice/](https://www.geeksforgeeks.org/user/jyoshnamvns/">
+  <a href="https://www.geeksforgeeks.org/user/jyoshnamvns/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="https://jyoshnamalluru.vercel.app/](https://jyoshnamalluru.github.io/JyoshnaMalluru-Portfolio/">
+  <a href="https://jyoshnamalluru.github.io/JyoshnaMalluru-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
