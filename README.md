@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Malluru Venkata Nagasai Jyoshna</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | Learning ML & DL & AI</h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | Learning ML, DL & AI</h3>
 
 
 ## 👨‍💻 About Me
