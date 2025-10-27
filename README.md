@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Malluru Venkata Nagasai Jyoshna</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | Learning ML, DL & AI</h3>
+<h2 align="center">Aspiring Software Developer | MERN Stack Enthusiast | Learning ML, DL & AI</h2>
 
 
 ## 👨‍💻 About Me
@@ -138,13 +138,13 @@
   <a href="https://github.com/JyoshnaMalluru">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/JyoshnaMalluru/">
+  <a href="https://leetcode.com/u/JyoshnaMalluru/](https://leetcode.com/u/jyoshnamalluru/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/jyoshnamalluru/practice/">
+  <a href="https://auth.geeksforgeeks.org/user/jyoshnamalluru/practice/](https://www.geeksforgeeks.org/user/jyoshnamvns/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="https://jyoshnamalluru.vercel.app/">
+  <a href="https://jyoshnamalluru.vercel.app/](https://jyoshnamalluru.github.io/JyoshnaMalluru-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
